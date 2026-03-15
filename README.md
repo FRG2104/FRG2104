@@ -1,10 +1,10 @@
 ## Hola 👋
 
-Aprender cosas nuevas y entender cómo funcionan es lo que más me mueve, y uso proyectos técnicos como excusa para seguir mejorando un poco cada día.
+Aprender cosas nuevas y entender cómo funcionan es lo que más me gusta, y uso proyectos técnicos como excusa para seguir mejorando un poco cada día.
 
 ## Sobre mí
 
-- Estudiante de preparatoria al que le gusta conectar lo que ve en clase (física, mates, etc.) con proyectos reales y problemas concretos.  
+- Estudiante al que le gusta conectar lo que ve en clase (física, mates, etc.) con proyectos reales y problemas concretos.  
 - Disfruto desmontar sistemas: desde un servidor de juego hasta un workflow en Blender, para luego volver a armarlos de forma más eficiente.  
 - No me encierro en una sola etiqueta; hoy puede ser servidores, mañana 3D o cualquier cosa que me deje aprender algo útil.
 
